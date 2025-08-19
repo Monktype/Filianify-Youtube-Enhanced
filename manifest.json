@@ -1,11 +1,11 @@
 {
     "manifest_version": 2,
-    "name": "YouTube MrBeastify",
+    "name": "YouTube Filianify Enhanced",
     "version": "1.8.0",
     "icons": {
         "96": "icon.png"
     },
-    "description": "Modify YouTube thumbnails to include MrBeast",
+    "description": "Modify YouTube thumbnails to include Filian and friends",
     "browser_action": {
         "default_popup": "settings.html"
     },
@@ -15,7 +15,7 @@
     ],
     "content_scripts": [{
         "matches": ["*://*.youtube.com/*"],
-        "js": ["mrbeastify.js"],
+        "js": ["filianify.js"],
         "run_at": "document_idle"
     }],
     "web_accessible_resources": [

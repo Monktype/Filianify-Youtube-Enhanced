@@ -1,44 +1,17 @@
 <div align = center>
 
-# MrBeastify
+# Filianify-Youtube-Enhanced
 
-Is your browser experience boring? Are you having  
-trouble finding engaging click-baity videos?
-
-**Fear no more.**
-
-This extension adds the famous  
-youtuber **MrBeast** to every thumbnail.
-
-[![Button Download Firefox]][Download Firefox]  
-[![Button Download Chrome]][Download Chrome]  
-[![Button Download Edge]][Download Edge]
+Are you a snacker? Maybe even a smacker?
+Add [Filian](https://twitch.tv/filian) to your YouTube video thumbnails!
 
 </div>
 
-## Notes
+This is an updated and enhanced version of the Firefox extension [Filianify Youtube](https://addons.mozilla.org/en-US/firefox/addon/filianify-youtube/), which itself is a fork of [MrBeastify-Youtube](https://github.com/MagicJinn/MrBeastify-Youtube/).
 
-- This extension should be compatible with any Firefox / Chromium based browser.
-- This extension was inspired by **[Unnecessary Inventions][UI YouTube]** and his **[Website][UI Website]**.
-- This extension is unofficial and not affiliated with MrBeast or YouTube.
+The purpose of this updated and enhanced version is to include newer patches from MrBeastify-Youtube as well as add more overlay pictures.
 
-## Microsoft Edge <a id="microsoftedge"></a>
+*Not affiliated with Filian, MrBeast, YouTube, France, or Welch's brands.*
 
-Microsoft Edge support has been ended, and the extension has been delisted. This is because Edge is consistently the slowest at reviewing extensions, constantly rejects my submissions with vague reasons why, and are all-round terrible. Download the Chrome version instead.
+*I left the Ko-Fi button on the UI for the MrBeastify-Youtube creator. This is a reskin DLC and I'm not Ubisoft; support the original creator that did the work, not me.*
 
-[![Button Download Chrome]][Download Chrome]
-
-<!----------------------------------------------------------------------------->
-
-[Button Download Firefox]: https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logoColor=white&logo=Firefox
-
-[Button Download Chrome]: https://img.shields.io/badge/Chrome-4285F4?style=for-the-badge&logoColor=white&logo=GoogleChrome
-
-[Button Download Edge]: https://img.shields.io/badge/Edge-0078D7?style=for-the-badge&logoColor=white&logo=MicrosoftEdge&color=grey
-
-[Download Firefox]: http://addons.mozilla.org/en-GB/firefox/addon/youtube-mrbeastify/
-[Download Chrome]: http://chrome.google.com/webstore/detail/youtube-mrbeastify/dbmaeobgdodeimjdjnkipbfhgeldnmeb
-[Download Edge]: #microsoftedge
-
-[UI YouTube]: http://www.youtube.com/@UnnecessaryInventions
-[UI Website]: http://www.mrbeastify.com/

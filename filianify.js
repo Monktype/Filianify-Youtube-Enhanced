@@ -102,7 +102,7 @@ function applyOverlayToThumbnails() {
 
             const overlayImageURL = Math.random() < appearChance ?
                 getImageURL(baseImagePath) :
-                ""; // Just set the url to "" if we don't want MrBeast to appear lol
+                ""; // Just set the url to "" if we don't want Filian to appear lol
 
             applyOverlay(thumbnailElement, overlayImageURL, flip);
         }
@@ -250,7 +250,7 @@ async function Main() {
 
     if (extensionIsDisabled) {
         console.info(`${EXTENSION_NAME} is disabled.`)
-        return // Exit the function if MrBeastify is disabled
+        return // Exit the function if Filianify is disabled
     }
 
     await GetFlipBlocklist()
