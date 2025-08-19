@@ -15,3 +15,4 @@ The purpose of this updated and enhanced version is to include newer patches fro
 
 *I left the Ko-Fi button on the UI for the MrBeastify-Youtube creator. This is a reskin DLC and I'm not Ubisoft; support the original creator that did the work, not me.*
 
+*Overlay pictures 1 through 30, inclusively, come from the original Filianify Youtube extension.*
