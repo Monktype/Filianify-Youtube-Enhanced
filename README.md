@@ -15,4 +15,6 @@ The purpose of this updated and enhanced version is to include newer patches fro
 
 *I left the Ko-Fi button on the UI for the MrBeastify-Youtube creator. This is a reskin DLC and I'm not Ubisoft; support the original creator that did the work, not me.*
 
-*Overlay pictures 1 through 30, inclusively, come from the original Filianify Youtube extension.*
+*Overlay pictures 1 through 30, inclusively, came from the original Filianify Youtube extension.*
+*Overlay pictures 31 through 42, inclusively, were provided by Swiiika directly and placed generically by Monk.*
+*Overlay pictures 43 through 117, inclusively, were obtained from Filian's YouTube channel (thus Swiiika indirectly) and cleaned by Monk.*
